@@ -1,0 +1,17 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.out
+
+# Logs
+*.log
+
+# Editor backups (nano creates *.save on interrupted exit)
+*.save
+*~
+*.swp
+
+# IDE
+.vscode/
+.idea/
